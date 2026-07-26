@@ -275,6 +275,11 @@ hash = "94af73eec28b59b314b2c6ef9dfb98f37d7bbcbcb482c278570cc15e44b6a559"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "ec8432e5a8dcdaeb7eed2086c52916c41e6311258ae3f2b0aec022d3892c23b7"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
