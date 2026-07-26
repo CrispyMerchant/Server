@@ -5,11 +5,6 @@ file = "mods.txt"
 hash = "40fc0592d6f9b0766ba79c4a255f4181bd3dbb0b6e036287405feb4e100d1e31"
 
 [[files]]
-file = "mods/addictivedeals.pw.toml"
-hash = "a11d253aefcadc6bc4134d6efb89f1fe0071221510cac73942997093da6355f1"
-metafile = true
-
-[[files]]
 file = "mods/alexs-caves-(unofficial-port).pw.toml"
 hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
