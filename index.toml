@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods.txt"
+hash = "40fc0592d6f9b0766ba79c4a255f4181bd3dbb0b6e036287405feb4e100d1e31"
+
+[[files]]
 file = "mods/alexs-caves-(unofficial-port).pw.toml"
 hash = "e3ea6c1ae49cfdb68008b673687d013a8b75d53fc2cc66ba2d1677dc51b929b0"
 metafile = true
@@ -213,6 +217,11 @@ metafile = true
 [[files]]
 file = "mods/fast-ip-ping.pw.toml"
 hash = "f3935636357eb78086ff6ba4e8ed68ea0d63411dadbaaf97f25727cfbc6399e3"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
 metafile = true
 
 [[files]]
