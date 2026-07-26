@@ -1,0 +1,13 @@
+name = "Rats Unofficial (Fixed)"
+filename = "Rats Unofficial (Fixed)-1.21.1-8.2.4R05.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef56323df8381a96d6cb7a50d0a3b1a4c7d9f289"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8510808
+project-id = 1549384
